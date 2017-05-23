@@ -7,14 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E27A55D11ED3D79700754710 /* PopViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E27A55D01ED3D79700754710 /* PopViewController.swift */; };
 		E2E6CDDA1ECC37500049AC06 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2E6CDD91ECC37500049AC06 /* AppDelegate.swift */; };
 		E2E6CDDC1ECC37500049AC06 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2E6CDDB1ECC37500049AC06 /* ViewController.swift */; };
 		E2E6CDDF1ECC37500049AC06 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2E6CDDD1ECC37500049AC06 /* Main.storyboard */; };
 		E2E6CDE11ECC37500049AC06 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E2E6CDE01ECC37500049AC06 /* Assets.xcassets */; };
 		E2E6CDE41ECC37500049AC06 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2E6CDE21ECC37500049AC06 /* LaunchScreen.storyboard */; };
+		E2E6CDF91ECC38E80049AC06 /* angry.png in Resources */ = {isa = PBXBuildFile; fileRef = E2E6CDED1ECC38E80049AC06 /* angry.png */; };
+		E2E6CDFA1ECC38E80049AC06 /* avatar1.png in Resources */ = {isa = PBXBuildFile; fileRef = E2E6CDEE1ECC38E80049AC06 /* avatar1.png */; };
+		E2E6CDFB1ECC38E80049AC06 /* sad.png in Resources */ = {isa = PBXBuildFile; fileRef = E2E6CDEF1ECC38E80049AC06 /* sad.png */; };
+		E2E6CDFC1ECC38E80049AC06 /* haha.png in Resources */ = {isa = PBXBuildFile; fileRef = E2E6CDF01ECC38E80049AC06 /* haha.png */; };
+		E2E6CDFD1ECC38E80049AC06 /* img.png in Resources */ = {isa = PBXBuildFile; fileRef = E2E6CDF11ECC38E80049AC06 /* img.png */; };
+		E2E6CDFE1ECC38E80049AC06 /* wow.png in Resources */ = {isa = PBXBuildFile; fileRef = E2E6CDF21ECC38E80049AC06 /* wow.png */; };
+		E2E6CDFF1ECC38E80049AC06 /* like.png in Resources */ = {isa = PBXBuildFile; fileRef = E2E6CDF31ECC38E80049AC06 /* like.png */; };
+		E2E6CE001ECC38E80049AC06 /* comment.png in Resources */ = {isa = PBXBuildFile; fileRef = E2E6CDF41ECC38E80049AC06 /* comment.png */; };
+		E2E6CE011ECC38E80049AC06 /* avatar2.png in Resources */ = {isa = PBXBuildFile; fileRef = E2E6CDF51ECC38E80049AC06 /* avatar2.png */; };
+		E2E6CE021ECC38E80049AC06 /* love.png in Resources */ = {isa = PBXBuildFile; fileRef = E2E6CDF61ECC38E80049AC06 /* love.png */; };
+		E2E6CE031ECC38E80049AC06 /* share.png in Resources */ = {isa = PBXBuildFile; fileRef = E2E6CDF71ECC38E80049AC06 /* share.png */; };
+		E2E6CE041ECC38E80049AC06 /* greyLike.png in Resources */ = {isa = PBXBuildFile; fileRef = E2E6CDF81ECC38E80049AC06 /* greyLike.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E27A55D01ED3D79700754710 /* PopViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PopViewController.swift; sourceTree = "<group>"; };
 		E2E6CDD61ECC37500049AC06 /* Poppover.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Poppover.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2E6CDD91ECC37500049AC06 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E2E6CDDB1ECC37500049AC06 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +36,18 @@
 		E2E6CDE01ECC37500049AC06 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E2E6CDE31ECC37500049AC06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E2E6CDE51ECC37500049AC06 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E2E6CDED1ECC38E80049AC06 /* angry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = angry.png; sourceTree = "<group>"; };
+		E2E6CDEE1ECC38E80049AC06 /* avatar1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = avatar1.png; sourceTree = "<group>"; };
+		E2E6CDEF1ECC38E80049AC06 /* sad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sad.png; sourceTree = "<group>"; };
+		E2E6CDF01ECC38E80049AC06 /* haha.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = haha.png; sourceTree = "<group>"; };
+		E2E6CDF11ECC38E80049AC06 /* img.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img.png; sourceTree = "<group>"; };
+		E2E6CDF21ECC38E80049AC06 /* wow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wow.png; sourceTree = "<group>"; };
+		E2E6CDF31ECC38E80049AC06 /* like.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = like.png; sourceTree = "<group>"; };
+		E2E6CDF41ECC38E80049AC06 /* comment.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = comment.png; sourceTree = "<group>"; };
+		E2E6CDF51ECC38E80049AC06 /* avatar2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = avatar2.png; sourceTree = "<group>"; };
+		E2E6CDF61ECC38E80049AC06 /* love.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = love.png; sourceTree = "<group>"; };
+		E2E6CDF71ECC38E80049AC06 /* share.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = share.png; sourceTree = "<group>"; };
+		E2E6CDF81ECC38E80049AC06 /* greyLike.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greyLike.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +80,35 @@
 		E2E6CDD81ECC37500049AC06 /* Poppover */ = {
 			isa = PBXGroup;
 			children = (
+				E2E6CDEC1ECC38AB0049AC06 /* Image */,
 				E2E6CDD91ECC37500049AC06 /* AppDelegate.swift */,
 				E2E6CDDB1ECC37500049AC06 /* ViewController.swift */,
 				E2E6CDDD1ECC37500049AC06 /* Main.storyboard */,
 				E2E6CDE01ECC37500049AC06 /* Assets.xcassets */,
 				E2E6CDE21ECC37500049AC06 /* LaunchScreen.storyboard */,
 				E2E6CDE51ECC37500049AC06 /* Info.plist */,
+				E27A55D01ED3D79700754710 /* PopViewController.swift */,
 			);
 			path = Poppover;
+			sourceTree = "<group>";
+		};
+		E2E6CDEC1ECC38AB0049AC06 /* Image */ = {
+			isa = PBXGroup;
+			children = (
+				E2E6CDED1ECC38E80049AC06 /* angry.png */,
+				E2E6CDEE1ECC38E80049AC06 /* avatar1.png */,
+				E2E6CDEF1ECC38E80049AC06 /* sad.png */,
+				E2E6CDF01ECC38E80049AC06 /* haha.png */,
+				E2E6CDF11ECC38E80049AC06 /* img.png */,
+				E2E6CDF21ECC38E80049AC06 /* wow.png */,
+				E2E6CDF31ECC38E80049AC06 /* like.png */,
+				E2E6CDF41ECC38E80049AC06 /* comment.png */,
+				E2E6CDF51ECC38E80049AC06 /* avatar2.png */,
+				E2E6CDF61ECC38E80049AC06 /* love.png */,
+				E2E6CDF71ECC38E80049AC06 /* share.png */,
+				E2E6CDF81ECC38E80049AC06 /* greyLike.png */,
+			);
+			name = Image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,9 +170,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E2E6CDFE1ECC38E80049AC06 /* wow.png in Resources */,
+				E2E6CDFB1ECC38E80049AC06 /* sad.png in Resources */,
 				E2E6CDE41ECC37500049AC06 /* LaunchScreen.storyboard in Resources */,
+				E2E6CE031ECC38E80049AC06 /* share.png in Resources */,
+				E2E6CDF91ECC38E80049AC06 /* angry.png in Resources */,
 				E2E6CDE11ECC37500049AC06 /* Assets.xcassets in Resources */,
 				E2E6CDDF1ECC37500049AC06 /* Main.storyboard in Resources */,
+				E2E6CDFF1ECC38E80049AC06 /* like.png in Resources */,
+				E2E6CDFC1ECC38E80049AC06 /* haha.png in Resources */,
+				E2E6CE041ECC38E80049AC06 /* greyLike.png in Resources */,
+				E2E6CDFA1ECC38E80049AC06 /* avatar1.png in Resources */,
+				E2E6CE001ECC38E80049AC06 /* comment.png in Resources */,
+				E2E6CDFD1ECC38E80049AC06 /* img.png in Resources */,
+				E2E6CE021ECC38E80049AC06 /* love.png in Resources */,
+				E2E6CE011ECC38E80049AC06 /* avatar2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,6 +197,7 @@
 			files = (
 				E2E6CDDC1ECC37500049AC06 /* ViewController.swift in Sources */,
 				E2E6CDDA1ECC37500049AC06 /* AppDelegate.swift in Sources */,
+				E27A55D11ED3D79700754710 /* PopViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -301,6 +361,7 @@
 				E2E6CDEA1ECC37500049AC06 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
